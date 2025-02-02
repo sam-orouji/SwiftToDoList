@@ -1,16 +1,10 @@
-# Starter Assignment: To-Do List
-
-This assignment requires you to create a to-do list app with the following requirements:
+# To-Do List
 
 - A home page which shows all your to-do lists
 - Ability to select a list and view its items
   - A button next to each item to toggle its completion status
   - A text field to rename the list
   - Text fields to rename the items in a list
-
-## Starter Code
-
-The starter code provided includes starter code for the model, view model, and the views. You may add more views, view modifiers, functions, variables, and files as needed.
 
 ## Expected Results
 
@@ -22,8 +16,3 @@ The starter code provided includes starter code for the model, view model, and t
 ## Screen Recording
 
 https://github.com/user-attachments/assets/16399695-6680-4863-824e-6eba50bbd552
-
-
-## Submission
-
-Be prepared to show your sub-team leader your completed app on Thursday 2/6!
